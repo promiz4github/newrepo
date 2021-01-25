@@ -620,3 +620,8 @@ max-width: 91.666667%;
 @media(min-width : 768px){
 
 }
+@media(max-width : 558px){
+  .w-100{
+    width: 5%;
+  }
+}
